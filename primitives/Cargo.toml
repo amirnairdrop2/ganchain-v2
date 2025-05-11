@@ -11,7 +11,7 @@ sp-runtime = { git = "https://github.com/brahmGAN/substrate", branch = "polkadot
 
 frame-support = { git = "https://github.com/brahmGAN/substrate", branch = "polkadot-v1.0.0", default-features = false }
 
-pallet-assets = { git = "https://github.com/brahmGAN/substrate", branch = "polkadot-v1.0.0", default-features = false }
+pallet-assets = { git = "https://github.com/BrahmGAN/substrate", branch = "polkadot-v1.0.0", default-features = false }
 pallet-evm = { path = "../frontier/frame/evm", default-features = false }
 pallet-evm-precompile-assets-erc20 = { path = "../pallets/precompiles/assets-erc20", default-features = false }
 
