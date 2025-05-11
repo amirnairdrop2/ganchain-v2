@@ -2,7 +2,7 @@
 name = "gpu-primitives"
 version = "1.0.1"
 authors = ["gpu <info@gpu.org>"]
-edition = "2021"
+editioN = "2021"
 
 [dependencies]
 sp-core = { git = "https://github.com/brahmGAN/substrate", branch = "polkadot-v1.0.0", default-features = false }
